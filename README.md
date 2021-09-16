@@ -47,3 +47,9 @@
 [facebook]: https://www.facebook.com/tariqul10765/
 [instagram]: https://www.instagram.com/tariqul8698/
 [linkedin]: https://www.linkedin.com/in/tariqul-fahim-028442205
+
+
+
+
+[![Tariqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqul10765&count_private=true&show_icons=true&theme=cobalt)](https://github.com/tariqul10765/github-readme-stats)
+
