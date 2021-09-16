@@ -50,6 +50,7 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqul10765&show_icons=true&theme=merko&layout=compact)](https://github.com/tariqul10765/github-readme-stats)
 
 [![Tariqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqul10765&count_private=true&show_icons=true&theme=cobalt)](https://github.com/tariqul10765/github-readme-stats)
 
