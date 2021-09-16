@@ -5,15 +5,17 @@
 
 ## I'm a Full stack Developer!!
 
+- 🔭 I’m currently working on MERN Projects
 - 🌱 I’m currently learning react.
-- 👯 I’m looking to collaborate with other developer
+- 💬 Ask me about ***JavaScript, Node.js, React.js, MongoDB, Express.js***
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play
+<!-- - 👯 I’m looking to collaborate with other developer -->
 
 ### Connect with me:
 
 <!-- [<img align="left" alt="tariqul.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="tariqul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<!-- [<img align="left" alt="tariqul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] -->
 [<img align="left" alt="tariqul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="tariqul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tariqul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
